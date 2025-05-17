@@ -197,9 +197,9 @@
   },
   "sneckomod:SerpentMind": {
     "NAME": "异色形态",
-    "DESCRIPTION": "虚无 。 NL 回合结束时 NL 在本回合每打出 1 色牌，获得 !M! 层 力量 。 NL sneckomod:赠礼 ：稀有牌。",
-    "UPGRADE_DESCRIPTION": "回合结束时 NL 在本回合每打出 1 色牌，获得 !M! 层 力量 。 NL sneckomod:赠礼 ：稀有牌。",
-    "DESCRIPTION_BATTLE": "回合结束时 NL 在本回合每打出 1 色牌，获得 !M! 层 力量 。"
+    "DESCRIPTION": "虚无 。 NL 回合结束时 NL 在本回合每打出 1 种颜色的牌，获得 !M! 层 力量 。 NL sneckomod:赠礼 ：稀有牌。",
+    "UPGRADE_DESCRIPTION": "回合结束时 NL 在本回合每打出 1 种颜色的牌，获得 !M! 层 力量 。 NL sneckomod:赠礼 ：稀有牌。",
+    "DESCRIPTION_BATTLE": "回合结束时 NL 在本回合每打出 1 种颜色的牌，获得 !M! 层 力量 。"
   },
   "sneckomod:SlitherThrough": {
     "NAME": "游蛇穿行",
